@@ -78,7 +78,7 @@ public class Main {
 
 
       ss.shortestDistance(edges);*/
-      LeetCode783 ss = new LeetCode783();
+      LeetCode98 ss = new LeetCode98();
 
       /*root.left = new TreeNode(2);
       root.right = new TreeNode(1);
@@ -121,7 +121,12 @@ public class Main {
               {2,2,18,2,9}
       };
       //ss.minCostII(costs);
-      ss.minDiffInBST(root);
+      //ss.canConstruct("bg",
+             // "efjbdfbdgfjhhaiigfhbaejahgfbbgbjagbddfgdiaigdadhcfcj");
+      //ss.sumRange(0,2);
+      //ss.sumRange(2,5);
+      //ss.sumRange(0,5);
+      ss.restoreIpAddresses("25525511135");
 /*
       ClassA z = new ClassA(10);
       ClassB x = new ClassB(10,20);
